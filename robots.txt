@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /sitemap.xml
-Allow: /resume/$
+Allow: /resume/
 Allow: /resume/index.html
 Allow: /resume/resume_en.html
 Allow: /resume/resume_fr.html
